@@ -1,0 +1,19 @@
+{
+	"name": "changyy/codeigniter-library-google-spreadsheet", 
+	"type": "library",
+	"description": "Google Spreadsheet PHP Client for CodeIgniter library",
+	"keywords": ["google", "spreadsheet"],
+	"homepage": "https://github.com/changyy/codeigniter-library-google-spreadsheet",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Yuan-Yi Chang",
+			"email": "changyy.csie@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">= 5.4.0",
+		"google/apiclient": "2.0"
+	}
+}
